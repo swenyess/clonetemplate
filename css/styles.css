@@ -2,29 +2,28 @@
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@600&display=swap');
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
+	font-family: 'League Spartan', sans-serif;
+	color: #00007A;
 	background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #8DC8FF;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #B3B4FF;
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #F3E0FF;
 }
-
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {

@@ -11,6 +11,12 @@ body {
 	background-color: #f8f8fc;
 }
 
+body {
+	font-family: 'League Spartan', sans-serif;
+	color: #00007A;
+	background-color: #f8f8fc;
+}
+
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {

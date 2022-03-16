@@ -41,7 +41,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #F9F5FF;
 }
 
 .biography-details li, .skill-list li {
